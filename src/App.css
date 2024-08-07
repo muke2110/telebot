@@ -1,0 +1,42 @@
+.App {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 40px auto;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    color: #007aff;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    color: #8e8e93;
+  }
+  
+  .wheel-container {
+    margin: 20px 0;
+  }
+  
+  .wheel-button {
+    background-color: #007aff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .wheel-button:hover {
+    background-color: #005bb5;
+  }
+  
